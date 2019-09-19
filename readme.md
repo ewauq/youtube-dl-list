@@ -11,4 +11,4 @@ Ajouter les liens Youtube des vidéos à télécharger dans `list.txt`
 Lancer le téléchargement des vidéos
 > py download.py
 
-Toutes les vidéos sont stockés dans le dossier `videos`.
+Toutes les vidéos sont stockées dans le dossier `videos`.
