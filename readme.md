@@ -9,10 +9,6 @@ Ajouter les liens Youtube des vidéos à télécharger dans `list.txt`
 > https://www.youtube.com/watch?v=xiD40jt4aKU
 
 Lancer le téléchargement des vidéos
-Windows
-> py download.py
-
-MacOS / Linux
-> python download.py
+> py|python download.py
 
 Toutes les vidéos sont stockées dans le dossier `videos`.
